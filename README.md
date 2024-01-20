@@ -9,10 +9,6 @@ I am an ambitious Senior Frontend Developer with 10 years of experience in comme
 ## 📖 I'm learning: ##
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
-
-🎮 When I'm AFK:
-
-
 ## My hobbies: ##
 
 - mountains & hiking 🏔
