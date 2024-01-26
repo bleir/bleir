@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Register - Login](https://github.com/bleir/bleir/assets/19537815/d034e277-608a-40a5-b599-57a72c40a161)
 
 ### Hi there 👋
@@ -13,9 +15,21 @@ I am an ambitious Senior Frontend Developer with 10 years of experience in comme
 
 ## My hobbies: ##
 
-- mountains & hiking 🏔
-- biking 🚲
-- antiques furniture 🕰
+<ul style=""list-type: none">
+  <li>mountains & hiking 🏔</li>
+  <li>biking 🚲</li>
+  <li>travel 🗺️</li>
+  <li>music 🎵</li>
+</ul>
+
+
+### You can also find me on
+
+<a href="https://www.linkedin.com/in/adam-s-8887226/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+</a>
+
+</div>
 
 
 <!--
