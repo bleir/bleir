@@ -16,12 +16,8 @@ I am an ambitious Senior Frontend Developer with 10 years of experience in comme
 
 ## My hobbies: ##
 
-<ul style=""list-type: none">
-  <li>mountains & hiking 🏔</li>
-  <li>biking 🚲</li>
-  <li>travel 🗺️</li>
-  <li>music 🎵</li>
-</ul>
+mountains & hiking 🏔  biking 🚲  travel 🗺️  music 🎵
+
 
 
 ### You can also find me on
