@@ -1,6 +1,6 @@
 <div align="center">
 
-![github-header-image](https://github.com/bleir/bleir/assets/19537815/c35a9434-0b80-48d3-9beb-ff6796ded253)
+![github-header-image (1)](https://github.com/bleir/bleir/assets/19537815/3401e470-b449-4f47-a9bb-65bb0a75e910)
 
 
 I am an ambitious <b>Senior Frontend Developer</b> with 10 years of experience in commercial domain, experience in building websites and applications using an array of technologies like JavaScript, React & Redux and modern libraries & frameworks. Good knowledge of the UI design process and deliverables throughout the development lifecycle. Eager to learn new things and languages. I’m highly motivated and dedicated to delivering high-quality work.
