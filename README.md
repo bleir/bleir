@@ -10,7 +10,7 @@ I am an ambitious <b>Senior Frontend Developer</b> with 10 years of experience i
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs)](https://skillicons.dev)
 
 ## 📖 I'm learning: ##
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgresql)](https://skillicons.dev)
 
 ## My hobbies: ##
 
