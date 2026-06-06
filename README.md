@@ -1,7 +1,6 @@
 <div align="center">
 
-![github-header-image (1)](https://github.com/bleir/bleir/assets/19537815/3401e470-b449-4f47-a9bb-65bb0a75e910)
-
+<img width="1662" height="946" alt="github-main-image" src="https://github.com/user-attachments/assets/3ce17bc1-9779-43af-b73e-701866725d26" />
 
 <p>Senior Software Engineer with 12+ years of experience building scalable, high-performance web applications using React and TypeScript. Specialized in microfrontend architecture, UI system design, and performance optimization.</p>
 <p>Proven track record in fintech, banking, and high-traffic platforms, delivering reliable and maintainable solutions in complex environments. Strong collaborator with experience working closely with product, backend, and design teams.</p>
