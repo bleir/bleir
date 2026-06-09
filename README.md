@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1662" height="946" alt="github-main-image" src="https://github.com/user-attachments/assets/3ce17bc1-9779-43af-b73e-701866725d26" />
+<img width="680" height="281" alt="Screenshot 2026-06-09 at 21 53 26" src="https://github.com/user-attachments/assets/81743de3-819d-489a-a2df-7b72d8846c26" />
+
 
 <p>Senior Software Engineer with 12+ years of experience building scalable, high-performance web applications using React and TypeScript. Specialized in microfrontend architecture, UI system design, and performance optimization.</p>
 <p>Proven track record in fintech, banking, and high-traffic platforms, delivering reliable and maintainable solutions in complex environments. Strong collaborator with experience working closely with product, backend, and design teams.</p>
