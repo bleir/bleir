@@ -13,12 +13,6 @@
 ## 📖 I'm learning: ##
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgresql)](https://skillicons.dev)
 
-## My hobbies: ##
-
-mountains & hiking 🏔  biking 🚲  travel 🗺️  music 🎵
-
-
-
 ### You can also find me on
 
 <a href="https://www.linkedin.com/in/adam-s-8887226/" target="_blank">
