@@ -6,8 +6,8 @@
 <p>Hi there 👋 I'm Adam. Senior Frontend Engineer with 12+ years of experience building enterprise-grade applicatons in React, TypeScript
 and Next.js within highly regulated banking and fntech environments. Focused on building and maintaining scalable
 frontend applicatons, including microfrontends, monorepos and design systems, with an emphasis on performance
-optmizaton and maintainability. Worked on retail banking platorms used across Poland and the Nordics.
-Contributes to code quality through structured reviews, supports other engineers, and uses AI-assisted development
+optmizaton and maintainability. Worked on retail banking platorms used across Poland and the Nordics.</p>
+<p>Contributes to code quality through structured reviews, supports other engineers, and uses AI-assisted development
 tools (Cursor, Claude Code, GitHub Copilot) to improve delivery speed and development workfow.</p>
 
 
