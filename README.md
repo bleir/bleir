@@ -25,11 +25,6 @@ mountains & hiking 🏔  biking 🚲  travel 🗺️  music 🎵
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
 
-or
-
-![image](https://www.codewars.com/users/adamsalej/badges/large)
-
-
 </div>
 
 
