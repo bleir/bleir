@@ -3,8 +3,12 @@
 <img width="680" height="281" alt="Screenshot 2026-06-09 at 21 53 26" src="https://github.com/user-attachments/assets/81743de3-819d-489a-a2df-7b72d8846c26" />
 
 
-<p>Senior Frontend Engineer with 12+ years of experience delivering enterprise-grade applications using React, TypeScript, Next.js, and modern frontend architecture. Proven expertise in microfrontends, monorepos, design systems, and performance optimization within highly regulated banking and fintech environments.</p>
-<p>Led architectural initiatives across cross-functional teams, helping organizations scale frontend platforms, improve developer experience, and accelerate product delivery. Passionate about building maintainable systems and leveraging AI-powered development tools to increase engineering productivity.</p>
+<p>Hi there 👋 I'm Adam. Senior Frontend Engineer with 12+ years of experience building enterprise-grade applicatons in React, TypeScript
+and Next.js within highly regulated banking and fntech environments. Focused on building and maintaining scalable
+frontend applicatons, including microfrontends, monorepos and design systems, with an emphasis on performance
+optmizaton and maintainability. Worked on retail banking platorms used across Poland and the Nordics.
+Contributes to code quality through structured reviews, supports other engineers, and uses AI-assisted development
+tools (Cursor, Claude Code, GitHub Copilot) to improve delivery speed and development workfow.</p>
 
 
 ## 💻 My Tech Stack: ##
