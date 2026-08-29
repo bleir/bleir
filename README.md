@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="680" height="281" alt="Screenshot 2026-06-09 at 21 53 26" src="https://github.com/user-attachments/assets/81743de3-819d-489a-a2df-7b72d8846c26" />
+<img width="1949" height="807" alt="ChatGPT Image Aug 30, 2026, 12_42_00 AM" src="https://github.com/user-attachments/assets/491c742d-11c6-4760-b5b3-3df085bba4be" />
 
 
 <p>Hi there 👋 I'm Adam. Senior Frontend Engineer with 12+ years of experience building enterprise-grade applicatons in React, TypeScript
