@@ -1,45 +1,17 @@
-<div align="center">
+# Adam Salej
 
-<img width="1949" height="807" alt="ChatGPT Image Aug 30, 2026, 12_42_00 AM" src="https://github.com/user-attachments/assets/491c742d-11c6-4760-b5b3-3df085bba4be" />
+**Senior Frontend Engineer** · React, TypeScript, Next.js  
+Poland · Remote · [Portfolio](https://bleir.pages.dev) · [LinkedIn](https://www.linkedin.com/in/adam-s-8887226/) · [Email](mailto:contact@adamsalej.com)
 
+I build and maintain enterprise frontend platforms in regulated banking and fintech — microfrontends, monorepos, and design systems, with a focus on performance and long-term maintainability. Work includes retail banking products used in Poland and the Nordics (UniCredit, Fana Sparebank, Nordea).
 
-<p>Hi there 👋 I'm Adam. Senior Frontend Engineer with 12+ years of experience building enterprise-grade applicatons in React, TypeScript
-and Next.js within highly regulated banking and fntech environments. Focused on building and maintaining scalable
-frontend applicatons, including microfrontends, monorepos and design systems, with an emphasis on performance
-optmizaton and maintainability. Worked on retail banking platorms used across Poland and the Nordics.</p>
-<p>Contributes to code quality through structured reviews, supports other engineers, and uses AI-assisted development
-tools (Cursor, Claude Code, GitHub Copilot) to improve delivery speed and development workfow.</p>
+### Selected work
+- **UniCredit mobile banking** — React/TypeScript microfrontends; shared UI adopted across 10 domains (~40% faster feature delivery)
+- **Fana Sparebank** — Nx/Turborepo credit journeys and admin, Azure DevOps
+- **Nordea** — internal reporting/analytics; ~40% less manual processing
+- **Senken** — led a 50-module Next.js migration from JavaScript to TypeScript
 
-
-## 💻 My Tech Stack: ##
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs)](https://skillicons.dev)
-
-## 📖 I'm learning: ##
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgresql)](https://skillicons.dev)
-
-### You can also find me on
-
-<a href="https://www.linkedin.com/in/adam-s-8887226/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-</a>
-
-</div>
-
-
-
-
-<!--
-**bleir/bleir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+**Core:** TypeScript, React, Next.js, TanStack Query  
+**Architecture:** Microfrontends, Nx / Turborepo, design systems, Redux Toolkit  
+**Also:** Node / NestJS, PostgreSQL, Playwright, Azure DevOps
