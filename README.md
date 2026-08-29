@@ -6,6 +6,7 @@ Poland · Remote · [Portfolio](https://adamsalej.com) · [LinkedIn](https://www
 I build and maintain enterprise frontend platforms in regulated banking and fintech — microfrontends, monorepos, and design systems, with a focus on performance and long-term maintainability. Work includes retail banking products used in Poland and the Nordics (UniCredit, Fana Sparebank, Nordea).
 
 ### Stack
-**Core:** TypeScript, React, Next.js, TanStack Query  
-**Architecture:** Microfrontends, Nx / Turborepo, design systems, Redux Toolkit  
+**Core:** TypeScript, React, Next.js  
+**Architecture:** Microfrontends, Nx / Turborepo, design systems  
+**State:** Redux Toolkit, TanStack Query  
 **Also:** Node / NestJS, PostgreSQL, Playwright, Azure DevOps
