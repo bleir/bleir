@@ -8,5 +8,5 @@ I build and maintain enterprise frontend platforms in regulated banking and fint
 ### Stack
 **Core:** TypeScript, React, Next.js  
 **Architecture:** Microfrontends, Nx / Turborepo, design systems  
-**State:** Redux Toolkit, TanStack Query  
+**State:** Redux Toolkit, TanStack Query, Zustand  
 **Also:** Node / NestJS, PostgreSQL, Playwright, Azure DevOps
